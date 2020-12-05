@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, my name is Yusuf 👋
+
+### Im a senior in my last year of highschool currently living in Richmond BC. In my free time, I enjoy playing video games w/ my closest buddies & eating @ cool resturants!
 
 <!--
 **yoduncu/yoduncu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
